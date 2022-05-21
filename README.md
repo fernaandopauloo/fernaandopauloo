@@ -10,5 +10,5 @@
 - 📡 Estudante de Engenharia de Telecomunicações pela Universidade Federal do Ceará - UFC 
 - ⚡️ Estudante de HARDWARE e programção Web
  
-<a class="twitter-share-button" href="https://twitter.com/intent/tweet?text=TITULO&url=LINK&via=SEUPERFIL">Tweetar</a>
+<a class="twitter-share-button" href="https://discord.com/channels/@me">Twitter</a>
 
