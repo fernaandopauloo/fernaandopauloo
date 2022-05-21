@@ -1,25 +1,13 @@
 
-
+# OLÁ, BEM VINDO AO MEU PERFIL 👋🏼
 
 ![](https://uploads.jovemnerd.com.br/wp-content/uploads/Regular_Show_Season_6_Episode_181-Still-1200x544.jpg)
 
+### SOBRE MIM:
 
+- 👻 Estudante de C++ 
+- 📡 Estudante de Engenharia de Telecomunicações pela Universidade Federal do Ceará - UFC 
+- ⚡️ Estudante de HARDWARE e programção Web
+  
+  
 
-
-
-
-
-<!--
-**fernaandopauloo/fernaandopauloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
