@@ -2,7 +2,6 @@
 
 # OLÁ, BEM VINDO AO MEU PERFIL ✋
 
-![](https://uploads.jovemnerd.com.br/wp-content/uploads/Regular_Show_Season_6_Episode_181-Still-1200x544.jpg)
 
 ### SOBRE MIM:
 
