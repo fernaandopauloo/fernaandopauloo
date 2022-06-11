@@ -1,13 +1,7 @@
 
 
-# OLÁ, BEM VINDO AO MEU PERFIL ✋
+# OLÁ, BEM VINDO AO MEU PERFIL 
 
-
-### SOBRE MIM:
-
-- 👻 Estudante de C++ 
-- 📡 Estudante de Engenharia de Telecomunicações pela Universidade Federal do Ceará - UFC 
-- ⚡️ Estudante de HARDWARE e programção Web
  
 <div align="center">
   <a href="https://github.com/fernaandopauloo">
